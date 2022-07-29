@@ -1,0 +1,103 @@
+{
+  "name": "ProjectMain",
+  "description": "Blank Template",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ActivitiesCustomWordClose": "[1.0.0]",
+    "BalaReva.EasyOutlook.Activities": "[1.0.0]",
+    "BitMiracle.Docotic.Pdf": "[7.5.11645]",
+    "ExcelRangeToImage.Activities": "[1.0.0]",
+    "ExceltoPDFConversion.Activities": "[1.1.7]",
+    "Google.Apis.Gmail.v1": "[1.55.0.2510]",
+    "MailKit": "[3.1.1]",
+    "Microsoft.Extensions.FileSystemGlobbing": "[5.0.0]",
+    "Microsoft.Extensions.Logging": "[5.0.0]",
+    "Microsoft.Graph": "[4.11.0]",
+    "Microsoft.Graph.Core": "[2.0.5]",
+    "Outlook.Mail.Activities": "[1.0.2]",
+    "OutlookActivities": "[1.1.1]",
+    "OutlookMailWithExcel.Activities": "[1.0.0]",
+    "RetrieveOutlookMails.Activities": "[1.0.0]",
+    "runtime.win.System.Net.Sockets": "4.3.0",
+    "System.IO.FileSystem": "[4.3.0]",
+    "System.IO.Packaging": "[4.7.0]",
+    "System.Net.Primitives": "4.3.1",
+    "System.Net.Sockets": "[4.3.0]",
+    "System.Runtime": "[4.3.1]",
+    "UiPath": "[22.6.42.9619-preview]",
+    "UiPath.AdobePdfServices.IntegrationService.Activities": "[3.0.2-preview]",
+    "UiPath.ComplexScenarios.Activities": "[1.1.5-preview]",
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.ImageProcessing": "[22.4.1]",
+    "UiPath.IntelligentOCR.Activities": "[6.1.0-preview]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.Mailchimp.IntegrationService.Activities": "[3.0.1]",
+    "UiPath.MicrosoftOffice365.Activities": "1.16.1-preview",
+    "UiPath.OCR.Activities": "[3.7.1-preview]",
+    "UiPath.OCR.Contracts": "[2.12.0-preview]",
+    "UiPath.PDF.Activities": "[3.7.2-preview]",
+    "UiPath.Presentations.Activities": "[1.4.0-preview]",
+    "UiPath.System.Activities": "[21.4.1]",
+    "UiPath.System.Extended.Activities": "[1.0.1]",
+    "UiPath.Telemetry.Client": "[1.5.3]",
+    "UiPath.UIAutomation.Activities": "22.4.5",
+    "UiPath.Vision": "[3.4.0-preview]",
+    "UiPath.Word.Activities": "[1.10.1]",
+    "UiPathTeam.ExtractWordDocumentDatatable": "[1.0.1]",
+    "UiPathTeam.Gmail.Activities": "[1.0.6822.33137]",
+    "UiPathTeam.OutlookInlineImage.Activities": "[1.1.0]",
+    "UiPathTeam.Word.Activities": "[1.0.0]",
+    "UiPathTeamActivitiesReadSavedEmailToObject": "[1.0.7]",
+    "Vuram.EmailPoller.Activities": "[1.0.0]",
+    "WordActivities": "[2.3.3]",
+    "Xceed.Pdf": "[2.0.21359.11160]",
+    "Xebia.WaitforEmailtobeSent.Activities": "[1.0.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "d0e9ba81-4496-417a-ba0b-e4f8553af951",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

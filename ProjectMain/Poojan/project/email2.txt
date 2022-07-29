@@ -1,0 +1,248 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+  <head>
+    <title>
+    </title>
+    <!--[if !mso]><!-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+      #outlook a {
+        padding: 0;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+
+      table,
+      td {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      img {
+        border: 0;
+        height: auto;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+        -ms-interpolation-mode: bicubic;
+      }
+
+      p {
+        display: block;
+        margin: 13px 0;
+      }
+    </style>
+    <!--[if mso]>
+        <noscript>
+        <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml>
+        </noscript>
+        <![endif]-->
+    <!--[if lte mso 11]>
+        <style type="text/css">
+          .mj-outlook-group-fix { width:100% !important; }
+        </style>
+        <![endif]-->
+    <!--[if !mso]><!-->
+    <link href="https://fonts.googleapis.com/css?family=DM+Serif+Display:normal,italic,bold&display=swap" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Cabin:normal,italic,bold&display=swap" rel="stylesheet" type="text/css">
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=DM+Serif+Display:normal,italic,bold&display=swap);
+      @import url(https://fonts.googleapis.com/css?family=Cabin:normal,italic,bold&display=swap);
+    </style>
+    <!--<![endif]-->
+    <style type="text/css">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 {
+          width: 100% !important;
+          max-width: 100%;
+        }
+
+        .mj-column-per-50 {
+          width: 50% !important;
+          max-width: 50%;
+        }
+      }
+    </style>
+    <style media="screen and (min-width:480px)">
+      .moz-text-html .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+
+      .moz-text-html .mj-column-per-50 {
+        width: 50% !important;
+        max-width: 50%;
+      }
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width:480px) {
+        table.mj-full-width-mobile {
+          width: 100% !important;
+        }
+
+        td.mj-full-width-mobile {
+          width: auto !important;
+        }
+      }
+    </style>
+    <style type="text/css">
+    </style>
+  </head>
+
+  <body style="word-spacing:normal;background-color:#0E2C4C;">
+    <div style="background-color:#0E2C4C;">
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="margin:0px auto;max-width:600px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:48px;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:504px;" ><![endif]-->
+                <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="font-size:0px;word-break:break-word;">
+                                  <div style="height:40px;line-height:40px;">&#8202;</div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
+                                    <tbody>
+                                      <tr>
+                                        <td style="width:504px;" class="mj-full-width-mobile">
+                                          <img height="auto" src="https://cdn.getvero.com/dd-editor/templates/coming-soon/hero.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="504" />
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="font-size:0px;word-break:break-word;">
+                                  <div style="height:32px;line-height:32px;">&#8202;</div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:0px;word-break:break-word;">
+                                  <div style="font-family:'DM Serif Display', 'Georgia', 'Times New Roman', serif;font-size:48px;line-height:1.25;text-align:left;color:#ffffff;">$alary!!!</div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="font-size:0px;word-break:break-word;">
+                                  <div style="height:16px;line-height:16px;">&#8202;</div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:0px;word-break:break-word;">
+                                  <div style="font-family:'Cabin', 'Helvetica', 'Arial', sans-serif;font-size:26px;line-height:1.5;text-align:left;color:#ffffff;">Dear W_Name, Your request for salary slip is accepted. All your details had been verified and perform correctly.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Please find your salary slip in attachment. If you have any quires regarding this or you found any mistake than you can contact us on <span style="color: #f92407;">hr@atul.co.in</span>.</div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="font-size:0px;word-break:break-word;">
+                                  <div style="height:56px;line-height:56px;">&#8202;</div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="font-size:0px;word-break:break-word;">
+                                  <div style="height:24px;line-height:24px;">&#8202;</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="margin:0px auto;max-width:600px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px;padding-bottom:64px;padding-left:10px;padding-right:228px;padding-top:32px;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:181px;" ><![endif]-->
+                <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="center" style="font-size:0px;padding:10px;word-break:break-word;">
+                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                    <tbody>
+                                      <tr>
+                                        <td style="width:130px;">
+                                          <img height="auto" src="https://getvero.s3.amazonaws.com/uploads%2F8c8f707321054c51e5a6047e37cc3f88%2Ffullsize%2F1ec9015a-dce7-4b4e-99cd-fc363415564e-Screenshot+%288%29.png" style="border:0;border-radius:0px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="130" />
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:181px;" ><![endif]-->
+                <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="center" style="font-size:0px;padding:20px;word-break:break-word;">
+                                  <div style="font-family:'Cabin', 'Helvetica', 'Arial', sans-serif;font-size:14px;line-height:1;text-align:center;color:#ffffff;">&copy;&nbsp; Atul Infotech Private Limited</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+    </div>
+  </body>
+
+</html>

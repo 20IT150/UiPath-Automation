@@ -1,0 +1,9 @@
+//Many of invoices have no email address in our data. you can find all candidate and their salary slip in attachment who don't have email address. 
+Please make a solution and take action for this.
+
+
+
+//"Dear "+W_Name+","+"Your request for salary slip is accepted.All your details had been verified and perform correctly."+
+"Please find your salary slip in attachment. If you have any quires regarding this or you found any mistake than you can contact on hr@atul.co.in . "+
+""+
+"HR department"
